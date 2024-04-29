@@ -1,3 +1,7 @@
+- Utilized encapsulation and inheritance to efficiently manage user and grocery store data, demonstrating object-oriented programming principles
+- Applied user input handling with Scanner and looping mechanisms to enhance user interaction and control program flow
+- Implemented basic arithmetic operations and conditional statements to process user transactions and manage grocery items
+- Developed a return mechanism to allow users to return purchased items and adjust their total bill accordingly
 
 Download both files, put them in a folder and run the GroceryStoreTester.java file in an ide or on terminal.
 
