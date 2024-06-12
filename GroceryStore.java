@@ -2,7 +2,6 @@ import java.util.Scanner;
 import java.util.LinkedList;
 public class GroceryStore {
 
-
     String egg = "Eggs";
     String meat = "Meat";
     String fish = "Fish";
@@ -16,8 +15,6 @@ public class GroceryStore {
     Scanner itemQuantity = new Scanner(System.in);
     LinkedList itemsBought = new LinkedList();
     int personalMoney = paisa.nextInt();
-
-
 
     void boughtMilk(int milkQuantity) {
         int cost = priceOfMilk * milkQuantity;
@@ -147,7 +144,4 @@ public class GroceryStore {
                 return 0; // Default cost if the item is not found (you may want to handle this case differently)
         }
     }
-
-
 }
-
